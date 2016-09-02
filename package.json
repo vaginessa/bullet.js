@@ -1,0 +1,24 @@
+{
+  "name": "bullet.js",
+  "version": "1.0.0",
+  "description": "A node.js pushbullet api wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remicaumette/bullet.js.git"
+  },
+  "keywords": [
+    "pushbullet",
+    "bullet.js",
+    "push bullet",
+    "bullet",
+    "push"
+  ],
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "license": "GPL-3.0"
+}
